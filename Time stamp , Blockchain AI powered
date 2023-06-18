@@ -1,0 +1,80 @@
+Time stamp , Blockchain AI powered --> Link below 
+https://www.youtube.com/watch?v=umepbfKp5rI
+Lesson 0 – Welcome to the course
+0:00 Introduction to the course
+5:31 Best Practices (Don't Skip!)	
+
+Lesson 1 – Blockchain Basics
+   13:56	What is a blockchain?	
+   24:23	The purpose of Smart Contracts
+   36:38	So... What about FTX and scams?
+   38:21	Quick Recap
+   39:53	Other Blockchain Benefits
+   44:19	What have Smart Contracts done so far?
+   46:54	Your First Transaction
+1:06:14	Gas I: Introduction to Gas
+1:15:38	How do Blockchains work
+1:33:08	Signing Transactions
+1:42:15	Gas II: Block Rewards & EIP 1559
+1:51:37	High-Level Blockchain Fundamentals
+
+Lesson 2 – Welcome to Remix – Simple Storage
+2:10:44 	Simple Storage	
+2:13:36	Remix Intro
+2:23:51	Basic Types
+2:31:56	Functions
+2:51:01	Solidity Arrays & Structs
+3:03:30	Errors & Warnings
+3:08:13	Memory, Storage, and calldata intro
+3:13:23	Basic Solidity Mappings
+3:17:45	Deploying your first smart contract!
+3:27:07	The EVM & Recap
+
+
+Lesson 3 – Remix Storage Factory
+3:29:59	Remix Storage Factory
+3:33:11	Setup I
+3:37:04	Setup II
+3:38:31	Deploying a contract from a contract
+3:41:30	Imports
+3:46:50	AI Help II
+3:50:47	Interacting with contracts ABI
+4:00:42	Inheritance
+4:07:37	Summary
+
+Lesson 4 – Remix Fund Me
+4:09:19	Introduction
+4:12:20	Setup
+4:13:58	Sending ETH through a function
+4:18:14 	Reverts
+4:22:07	Getting real-world Price data (Chainlink)
+4:36:21	Mid-Lesson Recap
+4:37:08	Interfaces
+4:43:31	AI Help III
+4:46:04	Importing from npm / GitHub
+4:48:05	Getting Prices From Chainlink
+4:51:59	More Solidity Math
+4:58:07	msg.sender
+4:59:52	Quick Recap
+5:00:46	Library
+5:05:44	SafeMath
+5:10:49 	For Loop
+5:15:31	Resetting an Array
+5:16:33	Sending ETH from a Contract
+5:24:23	Constructor
+5:27:37	Modifiers
+5:29:53	Testnet Demo
+5:34:00	Advanced Solidity Immutable & Constants
+5:42:09	Advanced Solidity Custom Errors
+5:44:56	Advanced Solidity Receive & Fallback
+5:57:10	Recap
+
+Lesson 5 – AI Prompting & Forums
+6:00:07	Introduction
+6:03:36 	7 Triage Steps for this course
+6:12:57	Setting up GitHub
+6:14:23	Formatting a question
+6:19:58 	Speed Run Ethereum
+
+Lesson 6 – Foundry Simple Storage 
+6:23:07	Introduction
